@@ -8,7 +8,9 @@ Official repository for JCBL Agri agricultural machinery parts website.
 
 ## About
 
-JCBL Agri are a trusted manufacturer and exporter of agricultural machinery spare parts, combine harvester components, and farm implement replacement parts. We focus on delivering durable, precision-engineered agricultural components for OEM and aftermarket requirements across global markets.
+JCBL Agri is a trusted manufacturer and exporter of modern agricultural machinery spare parts, combine harvester components, and farm implement replacement parts. We focus on innovation, durability, and efficient farming solutions.
+
+We support agricultural mechanization through precision-engineered components and reliable farming equipment systems.
 
 ## Product Categories
 
