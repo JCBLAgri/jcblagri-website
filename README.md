@@ -69,13 +69,13 @@ Sunday : Closed
 
 ## Connect With Us
 
-🌐 Website: https://jcblagri.com/
+🌐 Website: [https://jcblagri.com/](https://jcblagri.com/)
 
-📘 Facebook: https://www.facebook.com/jcblagri/
+📘 Facebook: [https://www.facebook.com/jcblagri/](https://www.facebook.com/jcblagri/)
 
-📸 Instagram: https://www.instagram.com/jcbl_agri_export/
+📸 Instagram: [https://www.instagram.com/jcbl_agri_export/](https://www.instagram.com/jcbl_agri_export/)
 
-🔗 LinkedIn: https://www.linkedin.com/company/jcbl-agri
+🔗 LinkedIn: [https://www.linkedin.com/company/jcbl-agri](https://www.linkedin.com/company/jcbl-agri)
 
 ## Repository Purpose
 
