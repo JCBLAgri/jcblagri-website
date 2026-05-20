@@ -2,6 +2,8 @@
 
 # 🌾 jcblagri-website
 
+![Logo](Untitled%20design%20(26).png)
+
 Official repository for JCBL Agri agricultural machinery parts website.
 
 ## About
