@@ -52,7 +52,7 @@ JCBL Agri supplies agricultural machinery components and farm equipment replacem
 
 ## Contact Information
 
-📍 Plot No. 580, Phase 9, Industrial Area, Sector 66, Sahibzada Ajit Singh Nagar, Punjab 160062, India
+📍 [Plot No. 580, Phase 9, Industrial Area, Sector 66, Sahibzada Ajit Singh Nagar, Punjab 160062, India](https://maps.app.goo.gl/6SwnfiLizpBZGcap6)
 
 📞 +91-8427001426
 
