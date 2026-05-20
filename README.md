@@ -1,6 +1,6 @@
 ![Banner](JCBL%20agri%20cover.jpg)
 
-# 🌾 jcblagri-website
+# 🌾 JCBL Agri
 
 ![Logo](Untitled%20design%20(26).png)
 
