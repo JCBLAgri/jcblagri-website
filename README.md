@@ -56,7 +56,7 @@ JCBL Agri supplies agricultural machinery components and farm equipment replacem
 
 📞 [+91-8427001426](tel)
 
-📧 [+91-9855128111](https://wa.me/919855128111)
+💬 WhatsApp: [+919855128111](https://wa.me/919855128111)
 
 📧 [agriparts@jcblmail.com](mailto:agriparts@jcblmail.com)
 
