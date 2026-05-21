@@ -1,10 +1,10 @@
 ![Banner](JCBL%20agri%20cover.jpg)
 
-# 🌾 JCBL Agri
+# 🌾 JCBL Agri Website
 
 ![Logo](Untitled%20design%20(26).png)
 
-Official repository for JCBL Agri agricultural machinery parts website.
+Official repository for the **JCBL Agri agricultural machinery parts website**.
 
 ## About
 
@@ -46,9 +46,10 @@ We support agricultural mechanization through precision-engineered components an
 
 JCBL Agri operates with advanced manufacturing capabilities focused on agricultural machinery and replacement components. The company emphasizes precision production, quality standards, and large-scale manufacturing support for global markets.
 
-## Global Presence
+## 🌍 Global Presence
 
-JCBL Agri supplies agricultural machinery components and farm equipment replacement parts across multiple international markets including Asia, Europe, Africa, the Middle East, and South America.
+We supply agricultural machinery components across:
+Asia | Europe | Africa | Middle East | South America
 
 ## Contact Information
 
